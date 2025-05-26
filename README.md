@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+CTU FIT - AI student
+into ML, AI and Computer Vision
+
 <!--
 **xdrejx/xdrejx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
