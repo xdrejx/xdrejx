@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 CTU FIT - AI student
+
 into ML, AI and Computer Vision
 
 <!--
